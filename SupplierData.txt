@@ -1,0 +1,7 @@
+001,Kawishka hemal,hawishka@gmail.com,0032654456415
+002,Danuka Dulaj,Danuka@gmail.com,076698696
+003,Nadishwara Gimhana,gimhana@gmail.com,0766989636
+004,Shamal Adithya,Shamal@gmail.com,0125663699
+005,Ashen Bandara,Ashen@gmail.com,0769854866
+S005,Imesh Maduranga,Maduranga@gmail.com,0799569363
+S006,Shehan Silva,ShehanSilva@emai.com,075 6969 363

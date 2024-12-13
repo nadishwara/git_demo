@@ -1,0 +1,8 @@
+C 001,C0018751,Sam Sepiol
+C 002,kavidu123,Kawidu Perera
+C 003,ashen123,Ashen Bandara
+Admin1,admin123,admin
+C004,80875840,Kavisha
+C006,Sanam123,Saman Kumara
+C 006,Nimal123@com,Nimal Srimal
+007,Hashan@123.com,Hashan Silva
